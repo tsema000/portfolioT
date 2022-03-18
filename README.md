@@ -1,6 +1,7 @@
 # portfolio
 # Screenshot
- ![Screenshot 2022-02-22 152914](https://user-images.githubusercontent.com/54382323/158947242-2ae32ed1-bd82-4fe2-9828-3c2ea2eff7b3.png)
+![Screenshot 2022-03-09 012746](https://user-images.githubusercontent.com/54382323/158947829-d09d2a81-d005-4cb9-9c4e-e8c4b33b80e5.png)
+
 
 
 This portfoliio is a small project using HTML/ CSS and Bootstrap. I will be using this to show case my projects!
