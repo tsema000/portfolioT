@@ -183,11 +183,10 @@ html {
   #about h2:before {
     content: "";
     border-bottom: 17px solid #00abae;
-    width: 7.3rem;
+    width: 8.3rem;
     display: block;
     margin: 0 auto;
     position: relative;
-    left: 1.66rem;
     top: 3rem;
     z-index: -1;
   }
@@ -306,7 +305,6 @@ html {
     display: block;
     margin: 0 auto;
     position: relative;
-    left: 1.44rem;
     top: 3rem;
     z-index: -1;
   }
@@ -383,7 +381,7 @@ html {
     display: block;
     margin: 0 auto;
     position: relative;
-    left: 1.6rem;
+    
     top: 3rem;
     z-index: -1;
   }
@@ -535,11 +533,10 @@ html {
     position: absolute;
     content: "";
     border-bottom: 17px solid #00abae;
-    width: 9.5rem;
+    width: 10.5rem;
     display: block;
     margin: 0 auto;
     position: relative;
-    left: 1.6rem;
     top: 3rem;
     z-index: -1;
   }
