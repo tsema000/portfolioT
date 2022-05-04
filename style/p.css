@@ -9,14 +9,11 @@ html {
   }
   
   body {
-    background-color: #1a1a1a;
+    background-color: #adb5bd;
     font-family: "Montserrat", sans-serif;
   }
   
-  .font-primary {
-    color: #fefefe;
-  }
-
+  
   
   p {
     font-size: 14px;
@@ -182,7 +179,6 @@ html {
   
   #about h2:before {
     content: "";
-    border-bottom: 17px solid #00abae;
     width: 8.3rem;
     display: block;
     margin: 0 auto;
@@ -291,7 +287,7 @@ html {
   }
   
   #skill h2 {
-    color: #fefefe;
+    color: #212529;
     font-size: 40px;
     position: absolute;
     text-align: center;
@@ -300,7 +296,6 @@ html {
   
   #skill h2:before {
     content: "";
-    border-bottom: 17px solid #00abae;
     width: 6rem;
     display: block;
     margin: 0 auto;
@@ -369,14 +364,13 @@ html {
   }
   
   #project h2 {
-    color: #fefefe;
+    color: #212529;
     font-size: 40px;
     text-align: center;
   }
   
   #project h2:before {
     content: "";
-    border-bottom: 17px solid #00abae;
     width: 10rem;
     display: block;
     margin: 0 auto;
@@ -418,7 +412,7 @@ html {
   }
   
   .project-btn {
-    color: #fefefe;
+    color: #212529;
     display: inline-block;
     position: relative;
     text-decoration: none;
@@ -524,7 +518,7 @@ html {
   }
   
   #contact h2 {
-    color: #fefefe;
+    color: #212529;
     font-size: 40px;
     text-align: center;
   }
@@ -532,7 +526,6 @@ html {
   #contact h2:before {
     position: absolute;
     content: "";
-    border-bottom: 17px solid #00abae;
     width: 10.5rem;
     display: block;
     margin: 0 auto;
@@ -542,7 +535,7 @@ html {
   }
   
   #contact p {
-    color: #fefefe;
+    color: #212529;
     font-size: 16px;
     margin-left: 29%;
     position: relative;
