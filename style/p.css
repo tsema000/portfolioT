@@ -161,7 +161,6 @@ html {
   }
   
   #about {
-    background: #212529;
     margin: 60px auto;
     margin-bottom: 30px;
     max-width: 400px;
@@ -172,7 +171,7 @@ html {
   
   #about h2 {
     position: relative;
-    color: #fefefe;
+    color: #212529;
     font-size: 40px;
     z-index: 2;
   }
@@ -195,12 +194,12 @@ html {
   
   #about .name {
     font-size: 19px;
-    color: white;
+    color:#212529;
   }
   
   #about .vocation {
     font-size: 17px;
-    color: #a8a8ab;
+    color: #212529;
     margin-bottom: 10px;
   }
   
@@ -211,14 +210,14 @@ html {
   } */
   
   #about p {
-    color: #fefefe;
+    color:#212529 ;
     padding-left: 8%;
     padding-right: 8%;
     text-align: center;
   }
   
   #about .email {
-    color: #fefefe;
+    color:#212529;
     font-size: 14px;
     margin-top: 14px;
     text-decoration: none;
@@ -227,7 +226,7 @@ html {
   #about button {
     background: none;
     border: none;
-    color: #fefefe;
+    color: #212529;
     cursor: pointer;
     outline: inherit;
     margin: auto;
@@ -268,7 +267,7 @@ html {
   }
   
   #about a {
-    color: #fefefe;
+    color: #212529;
   }
   
   /**
